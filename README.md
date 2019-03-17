@@ -10,9 +10,9 @@ subjective bias which may cause inconsistency of the results.
 Here, I developed a simple solution to track the target protein (puncta/aggregate) in the live cell and automatically
 quantify the mean intensity. 
 
-<img src="frap.gif" alt="Original Image" width="200px">
-<img src="frap_track.gif" alt="Track Labeled Image" width="200px">
-<img src="plot.png" alt="Quantification Result" width="400px">
+![Original Image](data/frap.gif)![Track Labeled Image](data/frap_track.gif)
+
+<img src="data/plot.png" alt="Quantification Result" width="400px">
 
 This approach can also be readily adapted for other live cell imaging applications.
  
